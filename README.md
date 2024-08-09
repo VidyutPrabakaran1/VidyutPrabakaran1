@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vidyut !
-- 👀 I’m interested in cars and computers.
-- 🌱 I’m currently learning python.
+- 👀 Cars and computers.
+- 🌱 Advancing more in python.
 - 📫 How to reach me : vidyutprabakaran@gmail.com
 - 😄 Pronouns: he/him
 
