@@ -4,4 +4,4 @@
 ## 📫 How to reach me : vidyutprabakaran@gmail.com
 
 ### Checkout my AI Password Manager :
-https://ai-password-manager.github.io/
+https://AI-Password-Manager.github.io/
