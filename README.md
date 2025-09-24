@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Vidyut !
 ## 📫 How to reach me : vidyutprabakaran@gmail.com
-## 👓 Website : https://VidyutPrabakaran1.github.io/aboutme/
+## 👓 Website : https://VidyutPrabakaran.github.io/aboutme/
 
 ### Checkout my AI Password Manager :
 [Visit Website](https://AI-Password-Manager.github.io/)
