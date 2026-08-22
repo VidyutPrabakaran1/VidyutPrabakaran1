@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Vidyut !
 ###  ‎ ‎ ‎ 
-### I'm a programmer, computer hardware enthusiast, and a certified yoga teacher. 
+### I'm a teen hobbyist programmer, computer hardware enthusiast, and a certified yoga teacher. 
 ### Exploring AI, Python, and more. When I'm not coding, or exploring tech, you can find me practicing yoga, listening to music, or looking at cars.
 ###  ‎ ‎ ‎ 
 ## 🪟 Check out my projects on my [website](https://VidyutPrabakaran.github.io) !
