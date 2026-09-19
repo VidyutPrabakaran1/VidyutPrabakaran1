@@ -1,4 +1,3 @@
-<img width="3217" height="1080" alt="vp1" src="https://github.com/user-attachments/assets/7fe1460c-03eb-4a43-b649-07293f21be09" />
 
 # 👋 Hi, I’m Vidyut !
 ###  ‎ ‎ ‎ 
